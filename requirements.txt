@@ -1,0 +1,7 @@
+easyocr
+opencv-python
+pillow
+
+Possible error faced - 
+-> uninstall the old keras and tensorflow for gpu
+-> install torch (pytorch) only for cpu 1st, then later install with gpu
